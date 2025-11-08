@@ -338,11 +338,11 @@ Contributions are welcome! Please follow these steps:
 If you use this code in your research, please cite our paper:
 
 ```bibtex
-@inproceedings{yourlastname2024codes,
+@inproceedings{aftar2025,
   title={The Codes Talk: Automated Extraction and Normalization of ISBNs for Metadata Integration},
-  author={Your Name and Co-authors},
+  author={Sania Aftar, Riccardo Amerigo Vigliermo and Sonia Bergamaschi},
   booktitle={ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
-  year={2024}
+  year={2025}
 }
 ```
 
@@ -358,8 +358,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-- **Author**: [Your Name]
-- **Email**: your.email@institution.edu
+- **Author**: Sania Aftar
+- **Email**: sania.aftar@unimore.it
 - **Project Link**: https://github.com/yourusername/isbn-normalization-pipeline
 
 ## 🔗 Related Projects
