@@ -360,7 +360,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Author**: Sania Aftar
 - **Email**: sania.aftar@unimore.it
-- **Project Link**: https://github.com/yourusername/isbn-normalization-pipeline
+- **Project Link**: https://github.com/saniaaftar/isbn-normalization-pipeline
 
 ## 🔗 Related Projects
 
